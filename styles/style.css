@@ -75,6 +75,7 @@
   display: flex;
   justify-content: center;
   margin-top: 100px;
+  padding-top: 100px;
 }
 
 .two-columns {
@@ -175,6 +176,7 @@
   background-position: left bottom;
   background-color: #f2f2f2;
   flex-direction: column;
+  padding-top: 100px;
 }
 
 .feynman__title {
