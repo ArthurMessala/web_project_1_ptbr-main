@@ -1,0 +1,18 @@
+.kaufman {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #1f1f1f;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  top: 0;
+  right: -124px;
+  z-index: 0;
+}

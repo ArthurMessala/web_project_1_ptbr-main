@@ -1,0 +1,41 @@
+.techniques {
+  margin-bottom: 100px;
+}
+
+.cards {
+  width: 920px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.cards__item {
+  padding-top: 60px;
+  width: 240px;
+}
+
+.cards__image {
+  width: 160px;
+  height: 160px;
+  margin: 0 40px 43px;
+  border-radius: 100%;
+}
+
+.cards__title {
+  text-align: center;
+  margin-bottom: 16px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cards__description {
+  line-height: 23px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+.techniques__section-subtitle {
+  margin-bottom: 0px;
+}

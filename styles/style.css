@@ -1,3 +1,13 @@
+@import url(normalize.css);
+@import url(../blocks/header.css);
+@import url(../blocks/section.css);
+@import url(../blocks/techniques.css);
+@import url(../blocks/two-columns.css);
+@import url(../blocks/feynman.css);
+@import url(../blocks/table.css);
+@import url(../blocks/kaufman.css);
+@import url(../blocks/footer.css);
+
 .body {
   margin: 0;
   padding: 0;
@@ -14,8 +24,6 @@
 .description {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
-  padding-top: 100px;
 }
 
 .digits {
