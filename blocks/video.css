@@ -1,0 +1,15 @@
+.video__section-subtitle {
+  margin-bottom: 50px;
+}
+
+.video__iframes {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto -60px;
+  gap: 20px;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 316px;
+}

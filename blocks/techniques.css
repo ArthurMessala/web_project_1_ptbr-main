@@ -7,7 +7,8 @@
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
+  gap: 100px;
+  flex-direction: row;
 }
 
 .cards__item {
