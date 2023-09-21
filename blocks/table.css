@@ -23,7 +23,7 @@
   font-weight: normal;
 }
 
-.table_theme_dark {
+.kaufman__table_theme {
   display: flex;
   width: 1100px;
   margin: 0 auto 90px;
@@ -32,7 +32,7 @@
   z-index: 1;
 }
 
-.table__cell_theme_dark {
+.kaufman__table__cell {
   display: block;
   list-style: none;
   width: 200px;
@@ -42,7 +42,7 @@
   z-index: 1;
 }
 
-.table__heading_theme_dark {
+.kaufman__table__heading {
   display: flex;
   line-height: 1.15;
   font-size: 24px;
@@ -50,7 +50,7 @@
   z-index: 1;
 }
 
-.table__text_theme_dark {
+.kaufman__table__text_ {
   display: flex;
   text-align: left;
   line-height: 1.2;
